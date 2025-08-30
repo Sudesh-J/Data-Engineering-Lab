@@ -1,0 +1,251 @@
+﻿id,name,age,gender,city,country,medical_expense,expense_category
+1000,Mia Verma,64,F,Bengaluru,UAE,15649.29,High
+1001,Olivia Rodriguez,22,M,Dubai,Australia,32674.71,Very High
+1002,Sara Brown,34,F,Pune,Australia,24774.89,Very High
+1003,Sai Verma,31,M,Chennai,India,38176.4,Very High
+1004,Olivia Khan,59,F,Sydney,UAE,31496.71,Very High
+1005,Diya Khan,27,F,Lucknow,Australia,48469.55,Very High
+1006,Myra Gupta,39,F,Paris,Australia,23470.44,Very High
+1007,Reyansh Johnson,86,F,Berlin,USA,10407.89,High
+1008,Kiara Khan,48,F,Berlin,UK,22406.46,Very High
+1009,Krishna Martinez,30,M,Pune,USA,3066.93,Low
+1010,Krishna Khan,12,M,Dubai,UAE,30931.31,Very High
+1011,Sophia Gupta,24,M,Jaipur,USA,17451.16,High
+1012,Ishaan Verma,86,F,New York,Singapore,47524.92,Very High
+1013,Reyansh Hernandez,35,F,Pune,Australia,10398.34,High
+1014,Reyansh Patil,8,F,Ahmedabad,Singapore,15355.53,High
+1015,Aadhya Hernandez,73,F,Ahmedabad,Australia,650.37,Very Low
+1016,Lucas Iyer,74,M,Jaipur,Canada,42008.84,Very High
+1017,Mia Singh,36,M,Toronto,USA,38817.99,Very High
+1018,Sophia Martinez,76,M,Bengaluru,India,23126.33,Very High
+1019,Aarav Nair,18,F,Dubai,USA,19518.56,High
+1020,Sara Hernandez,23,F,Sydney,Australia,39994.94,Very High
+1021,Kiara Garcia,18,M,Tokyo,Australia,2285.71,Low
+1022,Lucas Iyer,57,F,Tokyo,Australia,48650.71,Very High
+1023,Diya Iyer,60,M,Berlin,India,25879.95,Very High
+1024,Aditya Rodriguez,47,F,Chennai,UAE,14575.14,High
+1025,Mia Martinez,71,M,Paris,Australia,13585.91,High
+1026,Kiara Davis,2,F,Sydney,India,7898.58,Medium
+1027,Noah Sharma,15,M,Paris,USA,7720.6,Medium
+1028,Kiara Brown,30,M,New York,France,15269.93,High
+1029,Vivaan Khan,32,M,Tokyo,Germany,22952.25,Very High
+1030,Arjun Patil,29,M,Tokyo,Singapore,37439.18,Very High
+1031,Sara Davis,68,M,Los Angeles,Australia,41417.31,Very High
+1032,Lucas Patil,77,M,New York,Singapore,49948.47,Very High
+1033,Aarya Johnson,84,M,Mumbai,France,2426.34,Low
+1034,Vivaan Hernandez,46,F,Toronto,Germany,37328.32,Very High
+1035,Kiara Iyer,65,M,Hyderabad,UK,48489.42,Very High
+1036,Liam Miller,18,F,Hyderabad,UAE,8629.92,Medium
+1037,Aarav Sharma,2,M,Berlin,UAE,14623.95,High
+1038,Vihaan Verma,32,F,Chennai,UK,3207.17,Low
+1039,Elijah Iyer,15,M,Sydney,Australia,43372.62,Very High
+1040,Ava Rodriguez,55,M,Toronto,USA,6489.23,Medium
+1041,Vihaan Martinez,27,M,Berlin,Germany,13648.32,High
+1042,Sai Garcia,39,F,Paris,Australia,7574.09,Medium
+1043,Kiara Rodriguez,57,M,Jaipur,Singapore,34798.21,Very High
+1044,Noah Sharma,37,F,Pune,India,2036.42,Low
+1045,Diya Davis,9,F,Delhi,USA,35666.71,Very High
+1046,Anika Brown,38,F,Chennai,USA,18661.89,High
+1047,Pari Rodriguez,9,M,Mumbai,Germany,16063.52,High
+1048,Lucas Anderson,89,F,Lucknow,USA,39387.24,Very High
+1049,Vihaan Khan,15,M,Lucknow,UAE,19961.44,High
+1050,Shaurya Jones,75,M,Mumbai,USA,26794.47,Very High
+1051,Vivaan Patil,58,F,Paris,Canada,46956.91,Very High
+1052,Olivia Kaur,10,F,New York,India,28659.48,Very High
+1053,Vihaan Rodriguez,76,M,Bengaluru,France,48292.75,Very High
+1054,Aarav Anderson,64,F,Sydney,UK,13831.53,High
+1055,Arjun Jones,67,M,Los Angeles,India,20317.91,Very High
+1056,Ananya Nair,77,F,Dubai,Australia,46908.47,Very High
+1057,Aadhya Reddy,23,M,New York,Canada,13765.78,High
+1058,Myra Singh,29,M,Tokyo,UK,47411.14,Very High
+1059,Noah Davis,34,F,Mumbai,USA,46041.36,Very High
+1060,Aadhya Davis,77,M,Ahmedabad,Australia,1811.17,Low
+1061,Reyansh Anderson,46,M,Delhi,Germany,48775.84,Very High
+1062,Reyansh Reddy,21,F,Bengaluru,Australia,40016.44,Very High
+1063,Sai Jones,2,M,Los Angeles,Germany,39276.47,Very High
+1064,Kiara Miller,51,M,Hyderabad,UAE,18889.5,High
+1065,Reyansh Patil,29,F,Jaipur,Singapore,23634.13,Very High
+1066,Sara Khan,57,F,Los Angeles,France,15831.18,High
+1067,Aarya Miller,4,F,Berlin,Japan,41087.3,Very High
+1068,Aarav Iyer,86,F,Bengaluru,Australia,23807.67,Very High
+1069,Diya Garcia,48,M,Hyderabad,France,28053.56,Very High
+1070,Krishna Davis,27,M,Sydney,Germany,13677.09,High
+1071,Vihaan Iyer,39,M,London,UK,37236.27,Very High
+1072,Noah Khan,67,F,Chennai,Singapore,49101.26,Very High
+1073,Vihaan Garcia,3,F,Chicago,Singapore,12049.56,High
+1074,Ira Kaur,8,F,Jaipur,Germany,795.9,Very Low
+1075,Vihaan Martinez,10,M,Chicago,USA,39824.51,Very High
+1076,Vivaan Martinez,89,M,Dubai,UAE,28550.62,Very High
+1077,Noah Jones,73,F,London,Germany,36959.74,Very High
+1078,Aarav Martinez,65,F,New York,India,8919.88,Medium
+1079,Kiara Martinez,78,M,Chennai,Germany,48753.14,Very High
+1080,Aditya Johnson,4,M,Pune,UAE,22826.57,Very High
+1081,Pari Singh,87,M,Hyderabad,Australia,13654.77,High
+1082,Myra Iyer,27,F,Tokyo,UK,31650.92,Very High
+1083,Aarav Martinez,33,F,Bengaluru,France,40015.17,Very High
+1084,Liam Hernandez,72,F,Hyderabad,Japan,42146.61,Very High
+1085,Arjun Gupta,63,F,Ahmedabad,USA,34077.62,Very High
+1086,Ananya Gupta,90,F,New York,India,10587.32,High
+1087,Sara Martinez,70,F,New York,UK,6346.43,Medium
+1088,Myra Reddy,74,F,Mumbai,Canada,18462.44,High
+1089,Aarav Gupta,14,M,Pune,Canada,11967.2,High
+1090,Aditya Garcia,83,F,Chicago,Canada,39648.83,Very High
+1091,Krishna Miller,47,M,Los Angeles,USA,6782.28,Medium
+1092,Sophia Reddy,15,M,Dubai,Singapore,22125.76,Very High
+1093,Emma Patil,55,F,Jaipur,Japan,41437.5,Very High
+1094,Arjun Jones,90,F,Delhi,USA,33492.86,Very High
+1095,Sai Verma,45,M,London,France,24830.27,Very High
+1096,Vivaan Sharma,64,M,Mumbai,Australia,4452.24,Low
+1097,Isabella Johnson,29,F,Lucknow,Australia,17284.31,High
+1098,Aadhya Rodriguez,67,M,Pune,UK,6654.93,Medium
+1099,Shaurya Kaur,42,M,Los Angeles,Australia,9672.35,Medium
+1100,Olivia Hernandez,58,M,Mumbai,India,40024.97,Very High
+1101,Ishaan Reddy,71,F,Lucknow,Germany,28565.01,Very High
+1102,Reyansh Singh,54,F,Bengaluru,France,9658.58,Medium
+1103,Ava Davis,44,M,Jaipur,India,21483.69,Very High
+1104,Ira Johnson,42,F,Chicago,UK,14451.49,High
+1105,Ishaan Anderson,53,M,Ahmedabad,Singapore,18581.4,High
+1106,Kiara Verma,66,F,Sydney,Australia,37157.29,Very High
+1107,Kiara Khan,1,F,Hyderabad,UAE,5702.16,Medium
+1108,Krishna Davis,3,M,Paris,USA,34756.84,Very High
+1109,Sophia Anderson,8,F,Sydney,India,37280.93,Very High
+1110,Pari Anderson,11,M,New York,Canada,34668.82,Very High
+1111,Aadhya Davis,26,F,Hyderabad,India,15457.84,High
+1112,Ananya Brown,15,M,Toronto,Singapore,20582.38,Very High
+1113,Mia Verma,26,M,Dubai,UK,4173.13,Low
+1114,Mia Johnson,58,F,Pune,Japan,1870.03,Low
+1115,Ananya Rodriguez,85,M,Mumbai,Germany,32847.34,Very High
+1116,Vihaan Iyer,44,M,Berlin,Germany,15037.31,High
+1117,Ira Reddy,80,F,Toronto,USA,26949.99,Very High
+1118,Anika Davis,42,F,Jaipur,India,38906.35,Very High
+1119,Kiara Anderson,33,F,Pune,USA,38545.8,Very High
+1120,Ishaan Jones,26,F,Sydney,UAE,1892.18,Low
+1121,Elijah Brown,51,M,Lucknow,Germany,13574.85,High
+1122,Arjun Patil,32,M,Chicago,UK,20955.57,Very High
+1123,Elijah Sharma,1,F,Kolkata,UAE,27062.86,Very High
+1124,Noah Patil,60,M,Kolkata,UK,11778.82,High
+1125,Elijah Iyer,54,M,Dubai,Germany,34589.18,Very High
+1126,Isabella Rodriguez,33,M,Bengaluru,Canada,40031.03,Very High
+1127,Ava Singh,15,M,Chicago,Canada,31695.27,Very High
+1128,Aadhya Johnson,7,F,Paris,Singapore,35844.78,Very High
+1129,Ira Miller,65,F,Paris,Japan,651.69,Very Low
+1130,Lucas Garcia,45,F,Sydney,Singapore,14908.91,High
+1131,Aadhya Garcia,73,F,Bengaluru,India,40898.35,Very High
+1132,Isabella Singh,24,F,Sydney,Germany,26865.53,Very High
+1133,Lucas Miller,80,M,New York,UK,10279.75,High
+1134,Noah Nair,48,M,Lucknow,Singapore,10563.72,High
+1135,Aarya Sharma,88,M,Ahmedabad,UAE,25658.44,Very High
+1136,Olivia Verma,41,F,New York,Germany,22597.72,Very High
+1137,Vihaan Johnson,16,M,Tokyo,UAE,28217.79,Very High
+1138,Olivia Rodriguez,1,M,London,Australia,22109.4,Very High
+1139,Liam Garcia,64,F,Kolkata,UAE,26239.35,Very High
+1140,Aadhya Anderson,66,F,Los Angeles,Germany,41267.24,Very High
+1141,Olivia Nair,84,M,Lucknow,USA,44799.53,Very High
+1142,Liam Verma,45,F,New York,UAE,13650.07,High
+1143,Krishna Jones,83,F,Paris,UK,39587.05,Very High
+1144,Sara Garcia,64,F,London,Canada,2708.08,Low
+1145,Isabella Iyer,12,F,Tokyo,Japan,28053.84,Very High
+1146,Sai Patil,16,F,Kolkata,UAE,8402.96,Medium
+1147,Anika Gupta,33,M,Chicago,India,38344.82,Very High
+1148,Vivaan Brown,56,F,Mumbai,India,17581.79,High
+1149,Noah Verma,18,M,Tokyo,France,26235.33,Very High
+1150,Diya Davis,21,F,Berlin,USA,25055.56,Very High
+1151,Olivia Patil,66,F,Bengaluru,Canada,2991.33,Low
+1152,Ananya Hernandez,32,M,Jaipur,Japan,4137.48,Low
+1153,Aadhya Khan,47,M,Tokyo,Germany,4318.88,Low
+1154,Vihaan Gupta,17,F,Delhi,UK,48030.02,Very High
+1155,Isabella Sharma,40,M,New York,France,28206.75,Very High
+1156,Diya Verma,52,M,Ahmedabad,India,39744.17,Very High
+1157,Kiara Brown,45,M,Lucknow,USA,19003.22,High
+1158,Pari Nair,23,F,Chennai,Germany,9214.25,Medium
+1159,Emma Anderson,53,F,Jaipur,Singapore,40843.72,Very High
+1160,Diya Kaur,17,F,Dubai,UK,40046.71,Very High
+1161,Krishna Jones,7,M,Mumbai,UK,31150.37,Very High
+1162,Noah Johnson,60,M,Dubai,India,10279.73,High
+1163,Kiara Singh,67,F,Chennai,UK,35450.57,Very High
+1164,Pari Jones,36,F,Chennai,USA,20882.51,Very High
+1165,Aarav Singh,82,M,Berlin,France,49234.32,Very High
+1166,Anika Sharma,16,M,Berlin,India,7711.94,Medium
+1167,Noah Anderson,83,M,Pune,Australia,20454.12,Very High
+1168,Emma Martinez,48,M,Pune,UK,48312.14,Very High
+1169,Ira Iyer,15,F,Sydney,Australia,45512.73,Very High
+1170,Liam Anderson,65,M,Pune,Singapore,2545.97,Low
+1171,Ishaan Gupta,19,F,Paris,Australia,39570.2,Very High
+1172,Anika Nair,72,F,New York,Singapore,35643.87,Very High
+1173,Pari Verma,4,F,Kolkata,France,25486.31,Very High
+1174,Pari Martinez,38,M,Lucknow,UAE,36139.85,Very High
+1175,Aarav Hernandez,44,F,Bengaluru,Japan,40382.04,Very High
+1176,Ishaan Sharma,29,M,Bengaluru,Australia,49416.31,Very High
+1177,Ava Hernandez,37,F,Ahmedabad,Japan,49386.53,Very High
+1178,Ananya Miller,60,F,Paris,USA,41714.83,Very High
+1179,Elijah Davis,65,F,Chennai,UK,16840.92,High
+1180,Lucas Nair,64,M,Sydney,UAE,33338.79,Very High
+1181,Myra Sharma,3,M,Kolkata,Singapore,5819.95,Medium
+1182,Ananya Verma,20,F,Lucknow,Germany,49294.95,Very High
+1183,Reyansh Patil,12,F,London,Singapore,36846.68,Very High
+1184,Isabella Davis,70,M,Lucknow,Germany,19606.73,High
+1185,Kiara Davis,57,M,Sydney,India,20511.86,Very High
+1186,Arjun Nair,54,F,Bengaluru,Singapore,28331.97,Very High
+1187,Arjun Johnson,84,M,Los Angeles,UAE,29410.01,Very High
+1188,Sara Kaur,66,M,Los Angeles,Australia,24654.67,Very High
+1189,Kiara Brown,26,F,Dubai,Singapore,15106.38,High
+1190,Shaurya Garcia,9,F,Pune,UAE,22171.85,Very High
+1191,Vivaan Singh,9,M,Jaipur,India,22898.23,Very High
+1192,Aarya Jones,60,M,Lucknow,Canada,28309.58,Very High
+1193,Pari Jones,9,M,Toronto,Singapore,19869.98,High
+1194,Aditya Miller,24,M,Chennai,Canada,47912.87,Very High
+1195,Elijah Nair,68,F,Sydney,USA,18024.7,High
+1196,Aadhya Anderson,78,F,Los Angeles,France,41900.13,Very High
+1197,Arjun Jones,15,F,Pune,Singapore,32737.03,Very High
+1198,Lucas Rodriguez,29,M,Hyderabad,Australia,20394.82,Very High
+1199,Ananya Hernandez,80,F,Mumbai,Canada,17058.05,High
+1200,Liam Kaur,26,F,Tokyo,France,49243.05,Very High
+1201,Reyansh Sharma,60,F,London,Japan,9969.48,Medium
+1202,Lucas Anderson,58,M,Mumbai,India,5937.04,Medium
+1203,Isabella Gupta,42,M,Jaipur,Canada,42136.72,Very High
+1204,Sophia Martinez,58,M,Dubai,Germany,48016.84,Very High
+1205,Aarav Nair,67,M,Dubai,India,13649.12,High
+1206,Kiara Anderson,40,M,Los Angeles,USA,36729.33,Very High
+1207,Myra Jones,8,F,Tokyo,Canada,49409.83,Very High
+1208,Ananya Nair,78,M,Toronto,Singapore,4583.58,Low
+1209,Ira Gupta,64,M,Dubai,UAE,4770.04,Low
+1210,Arjun Hernandez,50,F,Mumbai,India,43569.09,Very High
+1211,Vihaan Verma,44,F,Hyderabad,Germany,28284.23,Very High
+1212,Sophia Patil,53,M,Paris,Australia,20829.45,Very High
+1213,Ira Martinez,55,M,Los Angeles,Germany,25244.93,Very High
+1214,Aarav Anderson,61,M,Tokyo,Japan,45598.08,Very High
+1215,Sai Patil,15,M,Toronto,Australia,49518.23,Very High
+1216,Sara Jones,57,M,Jaipur,UK,27649.48,Very High
+1217,Pari Verma,51,F,Berlin,UK,19575.25,High
+1218,Krishna Kaur,23,F,New York,UK,44205.94,Very High
+1219,Olivia Khan,17,M,Ahmedabad,Singapore,1682.02,Low
+1220,Sai Reddy,63,M,New York,USA,6707.11,Medium
+1221,Ira Brown,15,F,Kolkata,UAE,1552.24,Low
+1222,Sai Martinez,71,F,Pune,Canada,3699.35,Low
+1223,Vihaan Anderson,3,F,New York,USA,24239.36,Very High
+1224,Ava Nair,26,F,Bengaluru,Singapore,18622.86,High
+1225,Isabella Reddy,72,F,Paris,Canada,6828.4,Medium
+1226,Liam Patil,83,M,Paris,India,39490.71,Very High
+1227,Liam Jones,15,M,Pune,UAE,34748.11,Very High
+1228,Liam Reddy,25,M,Paris,UK,13235.36,High
+1229,Aadhya Anderson,26,M,Chicago,UAE,36023.03,Very High
+1230,Ira Anderson,39,F,Kolkata,USA,35761.71,Very High
+1231,Aadhya Miller,87,F,Ahmedabad,India,32920.99,Very High
+1232,Arjun Nair,22,M,Ahmedabad,Japan,24359.63,Very High
+1233,Ira Verma,10,F,Sydney,India,19396.89,High
+1234,Anika Gupta,22,M,Chicago,Singapore,1925.01,Low
+1235,Sara Kaur,25,F,London,UAE,49714.91,Very High
+1236,Kiara Hernandez,58,F,New York,France,28367,Very High
+1237,Arjun Hernandez,41,M,Hyderabad,Singapore,21375.29,Very High
+1238,Vihaan Patil,81,M,New York,USA,7515.71,Medium
+1239,Arjun Hernandez,49,F,London,Singapore,30614.56,Very High
+1240,Ava Davis,73,M,Ahmedabad,UK,39955.41,Very High
+1241,Arjun Singh,29,F,Jaipur,Canada,13527,High
+1242,Aadhya Patil,2,F,Chennai,UAE,30326.45,Very High
+1243,Noah Garcia,73,F,Bengaluru,France,37774,Very High
+1244,Mia Khan,10,M,Tokyo,UK,46223.8,Very High
+1245,Diya Miller,53,F,London,UK,17881.03,High
+1246,Olivia Brown,34,M,Paris,France,40354.49,Very High
+1247,Arjun Patil,56,F,Kolkata,Australia,26464.33,Very High
+1248,Liam Garcia,53,M,Hyderabad,Canada,8076.53,Medium
+1249,Isabella Martinez,25,F,Paris,France,6259.75,Medium
