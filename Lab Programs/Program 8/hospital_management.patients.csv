@@ -1,5 +1,0 @@
-_id,patient_id,name,age,gender,disease,doctor_assigned
-6900e075b5e9bace28607e51,1,Rahul Sharma,29,Male,Fever,Dr. Mehta
-6900e075b5e9bace28607e52,2,Sneha Patel,34,Female,Back Pain,Dr. Kapoor
-6900e075b5e9bace28607e53,3,Vikram Rao,45,Male,Migraine,Dr. Mehta
-6900e075b5e9bace28607e54,4,Priya Nair,27,Female,Skin Allergy,Dr. Desai
