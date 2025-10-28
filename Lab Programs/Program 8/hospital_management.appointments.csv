@@ -1,0 +1,5 @@
+_id,appointment_id,patient_name,doctor_name,date,status
+6900e075b5e9bace28607e56,1001,Rahul Sharma,Dr. Mehta,2025-10-27,Completed
+6900e075b5e9bace28607e57,1002,Sneha Patel,Dr. Kapoor,2025-10-28,Completed
+6900e075b5e9bace28607e59,1004,Priya Nair,Dr. Desai,2025-10-30,Completed
+6900e075b5e9bace28607e5a,1005,Arjun Verma,Dr. Mehta,2025-11-01,Scheduled

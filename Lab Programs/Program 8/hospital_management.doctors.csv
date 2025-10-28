@@ -1,0 +1,5 @@
+_id,doctor_id,name,specialization,experience
+6900e075b5e9bace28607e4d,101,Dr. Mehta,Cardiologist,10
+6900e075b5e9bace28607e4e,102,Dr. Kapoor,Orthopedic,8
+6900e075b5e9bace28607e4f,103,Dr. Singh,Neurologist,12
+6900e075b5e9bace28607e50,104,Dr. Desai,Dermatologist,5
